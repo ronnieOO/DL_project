@@ -4,5 +4,6 @@
 ### April 30, 2020
 
 
-![Alt text](/home/amy/DL/DL_project/img1.png)
+<img src="/home/amy/DL/DL_project/img1.png"></img><br/>
+
  
