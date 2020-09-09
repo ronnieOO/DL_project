@@ -4,7 +4,7 @@
 ### April 30, 2020    
 
 
-<img src="ronnieOO/DL_project/DL/DL_project/image/img1.png"></img>    
+<img src="image/img1.png"></img>    
 
 As more artificial intelligence applications move to smartphones, deep learning models are getting smaller to allow apps to run faster and save battery power. Now, MIT researchers have a new and better way to compress models.    
     
